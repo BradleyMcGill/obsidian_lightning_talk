@@ -1,0 +1,12 @@
+---
+
+---
+#Daily
+
+An example daily note
+
+Start of day checklist
+- [ ] Get up
+- [ ] Eat food
+
+Notes to self

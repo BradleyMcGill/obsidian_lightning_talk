@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"befc4b18fe77a02e","type":"group","x":-840,"y":-440,"width":1320,"height":840,"label":"Grouping"},
+		{"id":"30a71288bb06db01","type":"text","text":"An example canvas","x":-820,"y":-420,"width":200,"height":60},
+		{"id":"7660d24129bfe260","type":"file","file":"Lightning talk notes.md","x":-820,"y":-320,"width":400,"height":400},
+		{"id":"94a7151f784731b1","x":-320,"y":-340,"width":760,"height":600,"type":"link","url":"https://www.google.com"}
+	],
+	"edges":[]
+}
