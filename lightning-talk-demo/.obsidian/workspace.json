@@ -11,17 +11,14 @@
             "id": "d6ef30e0d53f7beb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Examples/Canvas.canvas",
-                "viewState": {
-                  "x": -140,
-                  "y": -20,
-                  "zoom": 0
-                }
+                "file": "Public note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas"
+              "icon": "lucide-file",
+              "title": "Public note"
             }
           }
         ]
@@ -181,8 +178,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d6ef30e0d53f7beb",
+  "active": "fd457ce67ca7500c",
   "lastOpenFiles": [
+    "Lightning talk notes.md",
+    "My Daily notes/2025-03-18.md",
+    "Examples/Canvas.canvas",
     "Public note.md",
     "Examples/Books/_books.md",
     "Examples/Books/Book 3.md",
@@ -193,7 +193,6 @@
     "Examples/Books/This is my second book.md",
     "Examples/Books/This is my first book.md",
     "Presentation.md",
-    "Examples/Canvas.canvas",
     "Examples/Books",
     "My Daily notes/2025-03-16.md",
     "My Daily notes/2025-03-15.md",
@@ -205,7 +204,6 @@
     "My Daily notes/2025-03-12 - Copy (3).md",
     "My Daily notes/2025-03-12 - Copy (2).md",
     "My Daily notes/2025-03-12 - Copy.md",
-    "Lightning talk notes.md",
     "Examples",
     "_templates",
     "My Daily notes",
