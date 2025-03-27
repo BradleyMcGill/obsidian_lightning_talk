@@ -1,1 +1,4 @@
+---
+cssclasses: []
+---
 Better than [[Javascript]] 

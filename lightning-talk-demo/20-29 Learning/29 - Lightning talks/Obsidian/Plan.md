@@ -2,7 +2,6 @@
 tags:
   - TODO
 ---
-
 - Easy to use
 - Looks nice
 - Customisable - CSS + Plugins
@@ -13,5 +12,7 @@ tags:
 4. Git
 5. Local graph > Graph view
 6. Dataview
-7. Plugins
-8. Canvas***
+7. Templates - Make a new dashboard for the Misc file
+8. Tags + Properties (red background)
+9. Plugins
+10. Canvas - We love this

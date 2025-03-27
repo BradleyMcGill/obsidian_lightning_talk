@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
-    "slide-background"
+    "slide-background",
+    "bg-red"
   ]
 }

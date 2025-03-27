@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/This wont be committed.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This wont be committed"
+              "title": "Home"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 280.5
   },
   "right": {
     "id": "06080b37ea38e1ff",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Learning/29 - Lightning talks/_Dashboard.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Dashboard"
+              "title": "Outline of Home"
             }
           },
           {
@@ -165,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "private/This wont be committed.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of This wont be committed"
+              "title": "Graph of Home"
             }
           }
         ],
@@ -215,44 +217,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20aed1df9784ac04",
+  "active": "80f0602750ab8237",
   "lastOpenFiles": [
+    "20-29 Learning/_Dashboard.md",
+    "Home.md",
+    "20-29 Learning/29 - Lightning talks/Obsidian/Presentation.md",
+    "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
+    "10-19 Projects/_Dashboard.md",
+    "90-99 Misc/98 - Templates/Dashboard.md",
+    "90-99 Misc/99 - Archive",
+    "Napkin.md",
+    "20-29 Learning/21 - Programming Languages/Javascript.md",
+    "10-19 Projects/Kanban.md",
+    "20-29 Learning/21 - Programming Languages/Typescript.md",
+    "20-29 Learning/23 - Math/Pythagorus.md",
+    "10-19 Projects/10 -Some cool project/My cool idea.md",
+    "20-29 Learning/23 - Math",
     "01-09 Life Admin/Life.canvas",
-    "private/This wont be committed.md",
-    "10-19 Projects/Some cool project/My cool idea.md",
     "01-09 Life Admin/01 - For me/My goals.md",
-    "01-09 Life Admin/01 - For me",
+    "01-09 Life Admin/09 - Daily/2025-03-13.md",
+    "01-09 Life Admin/09 - Daily/2025-03-15.md",
+    "01-09 Life Admin/09 - Daily/2025-03-16.md",
     "01-09 Life Admin/09 - Daily/2025-03-18.md",
-    "90-99 Misc/_templates/Dashboard.md",
+    "01-09 Life Admin/09 - Daily/2025-03-14.md",
+    "01-09 Life Admin/09 - Daily/2025-03-12.md",
+    "private/This wont be committed.md",
+    "01-09 Life Admin/01 - For me",
     "20-29 Learning/22 - Frameworks/React.md",
     "20-29 Learning/22 - Frameworks",
-    "10-19 Projects/_Dashboard.md",
     "20-29 Learning/21 - Programming Languages/CSharp.md",
-    "20-29 Learning/21 - Programming Languages/Typescript.md",
-    "20-29 Learning/21 - Programming Languages/Javascript.md",
     "20-29 Learning/21 - Programming Languages/Rust.md",
-    "20-29 Learning/29 - Lightning talks/_Dashboard.md",
     "20-29 Learning/21 - Programming Languages",
-    "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
-    "10-19 Projects/Some cool project",
+    "10-19 Projects/10 -Some cool project",
     "10-19 Projects",
-    "20-29 Learning/29 - Lightning talks/Obsidian/Presentation.md",
-    "Home.md",
-    "90-99 Misc/_templates/Daily note.md",
+    "90-99 Misc/98 - Templates/Daily note.md",
     "20-29 Learning/29 - Lightning talks/Obsidian",
     "20-29 Learning/29 - Lightning talks",
     "90-99 Misc",
-    "20-29 Learning",
-    "10-19 Projects",
     "Daily.md",
-    "Examples/Canvas.canvas",
-    "Examples/Books/_books.md",
-    "Examples/Books/Book 3.md",
-    "Examples/Books/Book 7.md",
-    "Examples/Books/Book 6.md",
-    "Examples/Books/Book 5.md",
-    "Examples/Books/Book 4.md",
-    "Examples/Books/This is my second book.md",
-    "Examples/Books/This is my first book.md"
+    "Examples/Canvas.canvas"
   ]
 }
