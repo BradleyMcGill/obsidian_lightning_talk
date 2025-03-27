@@ -1,0 +1,1 @@
+This is good but [[Typescript]] is better

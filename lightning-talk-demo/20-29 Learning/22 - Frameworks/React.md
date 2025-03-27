@@ -1,0 +1,1 @@
+Use the [[Typescript]] version 100%
