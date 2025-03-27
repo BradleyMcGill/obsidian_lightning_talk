@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Plan"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "06080b37ea38e1ff",
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Plan"
             }
           }
         ],
@@ -217,14 +217,14 @@
   },
   "active": "51922692b8cb24cf",
   "lastOpenFiles": [
+    "20-29 Learning/29 - Lightning talks/Obsidian/Presentation.md",
+    "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
+    "Home.md",
     "20-29 Learning/29 - Lightning talks/_Dashboard.md",
     "90-99 Misc/_templates/Dashboard.md",
     "90-99 Misc/_templates/Daily note.md",
-    "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
-    "20-29 Learning/29 - Lightning talks/Obsidian/Presentation.md",
     "20-29 Learning/29 - Lightning talks/Obsidian",
     "20-29 Learning/29 - Lightning talks",
-    "Home.md",
     "90-99 Misc",
     "20-29 Learning",
     "10-19 Projects",
