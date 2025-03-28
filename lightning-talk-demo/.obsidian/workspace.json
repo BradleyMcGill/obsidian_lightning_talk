@@ -11,14 +11,17 @@
             "id": "51922692b8cb24cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
-                "mode": "source",
-                "source": false
+                "file": "private/My Work Canvas.canvas",
+                "viewState": {
+                  "x": -1620.5756012965235,
+                  "y": 616.7960315084897,
+                  "zoom": -1.3333333333333328
+                }
               },
-              "icon": "lucide-file",
-              "title": "Plan"
+              "icon": "lucide-layout-dashboard",
+              "title": "My Work Canvas"
             }
           }
         ]
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "private/My Work Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for My Work Canvas"
             }
           },
           {
@@ -112,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "private/My Work Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from My Work Canvas"
             }
           },
           {
@@ -140,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
+                "file": "private/My Work Canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plan"
+              "title": "Outline of My Work Canvas"
             }
           },
           {
@@ -165,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
+                "file": "private/My Work Canvas.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,11 +194,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Plan"
+              "title": "Graph of My Work Canvas"
             }
           }
         ],
@@ -201,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 669.5
+    "width": 569.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,7 +222,18 @@
   },
   "active": "20aed1df9784ac04",
   "lastOpenFiles": [
+    "01-09 Life Admin/Life.canvas",
+    "01-09 Life Admin/01 - For me/My goals.md",
+    "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
+    "90-99 Misc/_Dashboard.md",
+    "90-99 Misc/98 - Templates/Just say Hi.md",
+    "90-99 Misc/98 - Templates/Dashboard.md",
+    "20-29 Learning/_Dashboard.md",
+    "10-19 Projects/_Dashboard.md",
     "20-29 Learning/29 - Lightning talks/Obsidian/Presentation.md",
+    "10-19 Projects/10 -Some cool project/My cool idea.md",
+    "Electron.md",
+    "20-29 Learning/21 - Programming Languages/Typescript.md",
     "private/My Work Canvas.canvas",
     "90-99 Misc/90 - Media/Info.md",
     "90-99 Misc/97 - Archive/Info.md",
@@ -226,34 +242,23 @@
     "Napkin.md",
     "Home.md",
     "90-99 Misc/98 - Templates/Daily note.md",
-    "90-99 Misc/98 - Templates/Dashboard.md",
     "90-99 Misc/98 - Templates",
-    "20-29 Learning/_Dashboard.md",
     "20-29 Learning/23 - Math/Pythagorus.md",
     "20-29 Learning/23 - Math",
     "20-29 Learning/22 - Frameworks/React.md",
     "20-29 Learning/22 - Frameworks",
-    "20-29 Learning/21 - Programming Languages/Typescript.md",
     "20-29 Learning/21 - Programming Languages/Rust.md",
     "20-29 Learning/21 - Programming Languages/Javascript.md",
     "20-29 Learning/21 - Programming Languages/CSharp.md",
     "20-29 Learning/21 - Programming Languages",
-    "10-19 Projects/_Dashboard.md",
-    "10-19 Projects/10 -Some cool project/My cool idea.md",
     "10-19 Projects/10 -Some cool project",
-    "01-09 Life Admin/Life.canvas",
-    "01-09 Life Admin/01 - For me/My goals.md",
     "01-09 Life Admin/01 - For me",
     "20-29 Learning/29 - Lightning talks/_Dashboard.md",
     "90-99 Misc/_templates/Dashboard.md",
     "90-99 Misc/_templates/Daily note.md",
-    "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
     "20-29 Learning/29 - Lightning talks/Obsidian",
     "20-29 Learning/29 - Lightning talks",
     "Daily.md",
-    "01-09 Life Admin/09 - Daily/2025-03-18.md",
-    "Examples/Canvas.canvas",
-    "Examples/Books/_books.md",
-    "Examples/Books/Book 3.md"
+    "Examples/Canvas.canvas"
   ]
 }

@@ -1,6 +1,7 @@
 ---
 tags:
   - TODO
+cssclasses: []
 ---
 - Easy to use
 - Looks nice
