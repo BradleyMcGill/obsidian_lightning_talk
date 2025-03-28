@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"68942ce8d3a4d328","type":"group","x":920,"y":-400,"width":1240,"height":800,"color":"5","label":"Long term"},
-		{"id":"78bb53bc8d720f65","type":"group","x":-360,"y":-400,"width":1100,"height":800,"label":"Short term"},
-		{"id":"69ad4c0ab7146dc8","type":"text","text":"Put some long term goal here","x":980,"y":-240,"width":250,"height":60},
-		{"id":"e2cade3e034bae49","type":"text","text":"That leads to this over here","x":1660,"y":-140,"width":250,"height":60},
-		{"id":"b637fd3ea2b95854","type":"text","text":"And here","x":1721,"y":20,"width":129,"height":60,"color":"#2b736b"},
-		{"id":"95a06b80566d9002","type":"file","file":"01-09 Life Admin/01 - For me/My goals.md","x":-340,"y":-360,"width":400,"height":400},
-		{"id":"4b9144685a83e726","type":"text","text":"> [!warning] Remember to finish my website\n\n> [!tip] Use callouts to signal things in your notes \n> You can do more than one line\n\n> [!info]- Look this one is foldable\n> Some secret information here 0.0","x":80,"y":-360,"width":612,"height":280},
-		{"id":"b83ca0157c7be445","type":"link","url":"http://www.bradleymcgill.co.uk","x":80,"y":-60,"width":612,"height":400,"color":"3"}
+		{"id":"68942ce8d3a4d328","type":"group","x":900,"y":-400,"width":1240,"height":800,"color":"5","label":"Long term"},
+		{"id":"78bb53bc8d720f65","type":"group","x":-320,"y":-400,"width":1100,"height":800,"label":"Short term"},
+		{"id":"95a06b80566d9002","type":"file","file":"01-09 Life Admin/01 - For me/My goals.md","x":-300,"y":-360,"width":400,"height":400},
+		{"id":"4b9144685a83e726","type":"text","text":"> [!warning] Remember to finish my website\n\n> [!tip] Use callouts to signal things in your notes \n> You can do more than one line\n\n> [!info]- Look this one is foldable\n> Some secret information here 0.0","x":120,"y":-360,"width":612,"height":280},
+		{"id":"b83ca0157c7be445","type":"link","url":"http://www.bradleymcgill.co.uk","x":120,"y":-60,"width":612,"height":400,"color":"3"},
+		{"id":"69ad4c0ab7146dc8","type":"text","text":"Put some long term goal here","x":960,"y":-240,"width":250,"height":60},
+		{"id":"e2cade3e034bae49","type":"text","text":"That leads to this over here","x":1640,"y":-140,"width":250,"height":60},
+		{"id":"b637fd3ea2b95854","type":"text","text":"And here","x":1701,"y":20,"width":129,"height":60,"color":"#2b736b"}
 	],
 	"edges":[
 		{"id":"7905974af7097bf1","fromNode":"69ad4c0ab7146dc8","fromSide":"right","toNode":"e2cade3e034bae49","toSide":"left"},
