@@ -11,17 +11,14 @@
             "id": "51922692b8cb24cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "private/My Work Canvas.canvas",
-                "viewState": {
-                  "x": -1620.5756012965235,
-                  "y": 616.7960315084897,
-                  "zoom": -1.3333333333333328
-                }
+                "file": "Napkin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "My Work Canvas"
+              "icon": "lucide-file",
+              "title": "Napkin"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/My Work Canvas.canvas",
+                "file": "Napkin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My Work Canvas"
+              "title": "Backlinks for Napkin"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/My Work Canvas.canvas",
+                "file": "Napkin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from My Work Canvas"
+              "title": "Outgoing links from Napkin"
             }
           },
           {
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/My Work Canvas.canvas",
+                "file": "Napkin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My Work Canvas"
+              "title": "Outline of Napkin"
             }
           },
           {
@@ -170,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "private/My Work Canvas.canvas",
+                "file": "Napkin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of My Work Canvas"
+              "title": "Graph of Napkin"
             }
           }
         ],
@@ -206,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 455.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,6 +219,8 @@
   },
   "active": "20aed1df9784ac04",
   "lastOpenFiles": [
+    "Home.md",
+    "private/My Work Canvas.canvas",
     "01-09 Life Admin/Life.canvas",
     "01-09 Life Admin/01 - For me/My goals.md",
     "20-29 Learning/29 - Lightning talks/Obsidian/Plan.md",
@@ -234,13 +233,11 @@
     "10-19 Projects/10 -Some cool project/My cool idea.md",
     "Electron.md",
     "20-29 Learning/21 - Programming Languages/Typescript.md",
-    "private/My Work Canvas.canvas",
     "90-99 Misc/90 - Media/Info.md",
     "90-99 Misc/97 - Archive/Info.md",
     "90-99 Misc/90 - Media",
     "90-99 Misc/97 - Archive",
     "Napkin.md",
-    "Home.md",
     "90-99 Misc/98 - Templates/Daily note.md",
     "90-99 Misc/98 - Templates",
     "20-29 Learning/23 - Math/Pythagorus.md",
