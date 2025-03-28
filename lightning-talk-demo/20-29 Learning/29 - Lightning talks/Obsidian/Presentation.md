@@ -14,15 +14,22 @@ Simply its a note taking app like Notion, OneNote, etc
 	- Fast to write
 	- Familiar
 	- Source control (git, google cloud, etc)
+	- Readable in Github (mostly)
 - Highly customisable
 - Plugins
+
+___
+
+## Why take notes?
+
+Its not about if you forget something as much as its about when you will forget something
+
+Its nice to have somewhere you can check for relevant information when you do forget
+ 
 
 ---
 
 ## Now lets start looking at some features
-
-
-
 
 ...
 
