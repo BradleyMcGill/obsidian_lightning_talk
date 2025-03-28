@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Napkin.md",
+                "file": "20-29 Learning/29 - Lightning talks/Obsidian/Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Napkin"
+              "title": "Presentation"
             }
           }
         ]
@@ -217,8 +217,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "20aed1df9784ac04",
+  "active": "51922692b8cb24cf",
   "lastOpenFiles": [
+    "01-09 Life Admin/09 - Daily/2025-03-28.md",
+    "Napkin.md",
     "Home.md",
     "private/My Work Canvas.canvas",
     "01-09 Life Admin/Life.canvas",
@@ -237,7 +239,6 @@
     "90-99 Misc/97 - Archive/Info.md",
     "90-99 Misc/90 - Media",
     "90-99 Misc/97 - Archive",
-    "Napkin.md",
     "90-99 Misc/98 - Templates/Daily note.md",
     "90-99 Misc/98 - Templates",
     "20-29 Learning/23 - Math/Pythagorus.md",
